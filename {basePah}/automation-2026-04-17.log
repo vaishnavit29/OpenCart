@@ -1,0 +1,88 @@
+01:18:54:767 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+15:41:35:822 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+16:11:08:127 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+16:13:27:366 [main] %5-level testCases.Tc_AccountRegistration -used browser is edge
+16:13:29:367 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+16:14:24:088 [main] %5-level testCases.Tc_AccountRegistration -used browser is edge
+16:14:26:114 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+19:54:25:221 [TestNG-tests-2] %5-level testCases.Tc_Login -used browser is chrome
+19:54:25:221 [TestNG-tests-1] %5-level testCases.Tc_AccountRegistration -used browser is edge
+19:54:29:981 [TestNG-tests-1] %5-level testCases.Tc_AccountRegistration -Providing details
+11:31:32:404 [main] %5-level testCases.Tc_Login -used browser is edge
+12:01:41:826 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+12:01:46:609 [main] %5-level testCases.Tc_Login -used browser is edge
+22:06:11:279 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+22:08:01:822 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+22:08:12:502 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+22:12:35:572 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+22:12:39:281 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+09:38:35:473 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+09:38:40:680 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+09:39:33:986 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+09:39:36:821 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+11:32:07:877 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+11:32:12:961 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+11:32:14:971 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+11:33:25:057 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+11:33:27:977 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+00:17:11:063 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+00:17:28:509 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+00:17:41:941 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+00:17:48:770 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+00:21:51:674 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+00:21:56:223 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+00:23:08:048 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+00:23:12:165 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+13:43:25:507 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+13:43:31:477 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+13:44:26:597 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+
+13:44:29:720 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+19:42:10:505 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\GroupTest.xml
+
+23:33:23:138 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\GroupTest.xml
+
+23:33:31:534 [main] %5-level testCases.Tc_Login -used browser is chrome
+23:33:35:797 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+23:33:38:994 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+23:35:44:640 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\GroupTest.xml
+
+23:35:47:503 [main] %5-level testCases.Tc_Login -used browser is chrome
+23:35:53:397 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+23:35:56:028 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+23:36:00:556 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+23:39:18:740 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart\parameter.xml
+

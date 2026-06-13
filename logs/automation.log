@@ -1,0 +1,3 @@
+20:28:55:011 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+20:28:58:898 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+20:29:06:869 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
