@@ -1,3 +1,15 @@
 20:28:55:011 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
 20:28:58:898 [main] %5-level testCases.Tc_AccountRegistration -Providing details
 20:29:06:869 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+11:25:18:909 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+11:25:21:977 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+11:25:29:248 [main] %5-level testCases.Tc_Login -used browser is chrome
+11:28:13:280 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+11:28:15:645 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+11:28:23:233 [main] %5-level testCases.Tc_Login -used browser is chrome
+17:37:03:091 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+17:37:05:318 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+17:37:09:309 [main] %5-level testCases.Tc_Login -used browser is chrome
+19:36:55:975 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+19:36:57:859 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+19:37:00:941 [main] %5-level testCases.Tc_Login -used browser is chrome

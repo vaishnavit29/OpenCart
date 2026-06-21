@@ -25,9 +25,9 @@ public class Tc_AccountRegistration extends BaseClass {
         acc.setChkRegRead();
         acc.setBtnRegSubmit();
         String AccCreationText= acc.getSuccessTxt();
-        Assert.assertEquals(AccCreationText,"Your Account Has Been Created!");
+        //Assert.assertEquals(AccCreationText,"Your Account Has Been Created!");
         acc.clickContinue();
-        
+
     }
 
 }

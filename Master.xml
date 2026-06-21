@@ -3,7 +3,9 @@
 
 <suite name="Test1">
     <test name="Test1">
+        <parameter name="browser" value="chrome"></parameter>
         <classes>
+
             <class name="testCases.Tc_AccountRegistration"></class>
             <class name="testCases.Tc_Login"></class>
         </classes>
