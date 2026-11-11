@@ -11,12 +11,14 @@ public class MyAccountPage extends BasePage{
         super(driver);
     }
     //PgaeFactory
-    @FindBy(linkText="Logout")
-    public WebElement btnLogOut;
+    @FindBy(linkText="Logout") public WebElement btnLogOut;
+    @FindBy(xpath = "//li/a[text()='Cameras']") public WebElement btnCamera;
+
     //Actions
     public void clickLogOut(){
         btnLogOut.click();
     }
+    public void clickCamera(){btnCamera.click();}
 
 
 }

@@ -1,15 +1,70 @@
-20:28:55:011 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
-20:28:58:898 [main] %5-level testCases.Tc_AccountRegistration -Providing details
-20:29:06:869 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
-11:25:18:909 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
-11:25:21:977 [main] %5-level testCases.Tc_AccountRegistration -Providing details
-11:25:29:248 [main] %5-level testCases.Tc_Login -used browser is chrome
-11:28:13:280 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
-11:28:15:645 [main] %5-level testCases.Tc_AccountRegistration -Providing details
-11:28:23:233 [main] %5-level testCases.Tc_Login -used browser is chrome
-17:37:03:091 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
-17:37:05:318 [main] %5-level testCases.Tc_AccountRegistration -Providing details
-17:37:09:309 [main] %5-level testCases.Tc_Login -used browser is chrome
-19:36:55:975 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
-19:36:57:859 [main] %5-level testCases.Tc_AccountRegistration -Providing details
-19:37:00:941 [main] %5-level testCases.Tc_Login -used browser is chrome
+10:10:03:282 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+10:10:17:970 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+10:20:38:397 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+10:20:47:949 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+10:27:11:819 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+10:27:16:559 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+10:31:46:586 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+10:31:51:571 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+10:50:51:091 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+10:50:56:234 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+10:58:05:483 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+10:58:11:226 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+16:01:17:696 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:01:26:767 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+16:03:01:183 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:03:04:780 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+16:06:33:653 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:06:37:103 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+16:11:54:542 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:11:57:931 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+16:13:53:737 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:13:57:458 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+16:18:41:211 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:18:44:804 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+16:36:37:399 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:36:40:758 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
+16:37:55:597 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:37:59:856 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+16:39:07:856 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:39:12:026 [main] %5-level testCases.Tc_Login -used browser is chrome
+16:41:42:067 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:41:45:295 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+16:41:53:442 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+16:42:25:364 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+16:42:28:696 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+16:42:37:199 [main] %5-level testCases.Tc_AccountRegistration -Providing details

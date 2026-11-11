@@ -27,5 +27,4 @@ public class LoginPage extends BasePage{
         btnSubmit.click();
     }
 
-
 }

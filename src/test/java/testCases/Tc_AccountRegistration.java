@@ -17,10 +17,12 @@ public class Tc_AccountRegistration extends BaseClass {
         logger.info("Providing details");
         acc.setTxtRegFirstName("vaish");
         acc.setTxtRegLastName("T");
-        acc.setTxtRegEmail(generateAlphabetic()+"@gmail.com");
+        String generatedEmail=generateAlphabetic()+"@gmail.com";
+        System.out.println(generatedEmail);
+        acc.setTxtRegEmail(generatedEmail);
         acc.setTxtRegTelephone("9876543216");
         acc.setTxtRegPassword("Vt@13");
-        acc.setTxtRegConfirmPassword("V@13");
+        acc.setTxtRegConfirmPassword("Vt@13");
         acc.setChkRegNewsLetter();
         acc.setChkRegRead();
         acc.setBtnRegSubmit();
