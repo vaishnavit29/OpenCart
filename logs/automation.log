@@ -68,3 +68,11 @@
 
 16:42:28:696 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
 16:42:37:199 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+09:24:10:169 [main] %5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\2151060\OpenCart\parameter.xml
+
+09:24:21:372 [main] %5-level testCases.Tc_AccountRegistration -used browser is chrome
+09:24:32:635 [main] %5-level testCases.Tc_AccountRegistration -Providing details
+09:24:41:797 [main] %5-level testCases.Tc_Login -used browser is chrome
+09:24:57:995 [main] %5-level testCases.TC_Login_DDT -used browser is chrome
+09:25:31:213 [main] %5-level testCases.TC_WishlistCamera -used browser is chrome
